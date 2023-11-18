@@ -1,0 +1,212 @@
+*{
+    
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+
+}
+
+
+main{
+    border: 1px solid black;
+    background-color: black;
+    width: 98vw;
+    height: 100vh;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+
+
+.div1{
+    width: 45vw;
+    background-color: white;
+    height: 80vh;
+}
+
+
+
+
+.div2{
+    width: 30vw;
+    background-color: white;
+    height: 80vh;
+    /* margin-left: 20px; */
+}
+
+
+.div1 .ade {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+
+
+
+#name{
+    margin-left: 80px;
+    width: 250px;
+    height: 30px;
+    color: blue;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+
+.input1{
+
+
+    margin-left: 70px;
+    width: 250px;
+    height: 30px;
+    color: blue;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+h1{
+    color: white;
+    position: absolute;
+    top: 10;
+    left: 200px;
+    font-family: initial;
+}
+
+
+.input2{
+    margin-left: 20px;
+    width: 250px;
+    height: 30px;
+    color: brown;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+
+.input3{
+    margin-left: 70px;
+    width: 250px;
+    height: 30px;
+    color: gold;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+
+
+.input4{
+    margin-left: 46px;
+    width: 250px;
+    height: 30px;
+    color: aqua;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+
+.input5{
+    margin-left: 70px;
+    width: 250px;
+    height: 30px;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.div1 .ade label {
+    font-size: 20px;
+    margin-left: 20px;
+
+}
+
+
+.drbee{
+    width: 45vw;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    
+}.drbee button{
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid black;
+    background-color: orange;
+    color: black;
+    width: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 17px;
+
+
+}
+
+.drbee button:hover{
+    background-color: black;
+    color: white;
+}
+
+
+
+
+.a1{
+    position: absolute;
+    top: 10px;
+    font-size: 50px;
+    text-align: center;
+    /* padding-left: auto; */
+    align-items: center;
+    text-align: center;
+    left: 850px;
+    border: none;
+    font-size: 30px;
+    color: white;
+    justify-content: center;
+    background-color: black;
+    font-family: initial;
+}
+
+
+.a2{
+    position: absolute;
+    top: 250px;
+    left: 750px;
+    border: none;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: initial;
+    color: green;
+    width: 35vw;
+    text-align: center;
+    height: 40px;
+    margin-right: 900px;
+    background-color: black;
+}
+
+
+.a3{
+    position: absolute;
+    bottom: 130px;
+    background-color: black;
+    left: 75med0px;
+    border: none;
+    width: 35vw;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    color: blue;
+    font-family: initial;
+}
+
+
+
